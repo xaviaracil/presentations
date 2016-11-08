@@ -190,8 +190,9 @@
     "name": "Cloud Computing",
     "level": "",
     "keywords": [
-      "AWS",
-      "Azure"
+      "AWS (EC2, S3, RDS, ECS, EMR, RedShift)",
+      "Azure",
+      "Docker"
     ]
   }, {
     "name": "Desktop Development",
