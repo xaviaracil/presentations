@@ -179,12 +179,12 @@
     "name": "Backend Development",
     "level": "",
     "keywords": [
-      "PostgreSQL",
-      "MySQL",
-      "SQL",
-      "Oracle",
+      "Couchbase",
       "MongoDB",
-      "Couchase"
+      "MySQL",
+      "Oracle",
+      "PostgreSQL",
+      "SQL"
     ]
   }, {
     "name": "Cloud Computing",
@@ -204,8 +204,8 @@
     "name": "Interoperability",
     "level": "",
     "keywords": [
-      "LTI",
       "JSON",
+      "LTI",
       "REST",
       "Service Oriented Architecture"
     ]
@@ -214,11 +214,11 @@
     "level": "",
     "keywords": [
       "Java",
-      "Swift",
+      "Javascript",
       "Objective-C",
       "Python",
-      "Javascript",
-      "Ruby"
+      "Ruby",
+      "Swift"
     ]
   }, {
     "name": "Mobile Development",
@@ -231,31 +231,33 @@
     "name": "Software Development",
     "level": "",
     "keywords": [
-      "Git",
-      "Subversion",
       "Continuous Integration",
-      "Scrum"
+      "Git",
+      "Scrum",
+      "Subversion"
     ]
   }, {
     "name": "Software Engineering",
     "level": "",
     "keywords": [
       "API design",
-      "OOP",
-      "Functional programming"
+      "Functional programming",
+      "OOP"
     ]
   }, {
     "name": "Web Development",
     "level": "",
     "keywords": [
-      "HTML",
       "CSS",
-      "Rails",
-      "Node",
-      "Tomcat",
+      "Django",
+      "Express",
       "JBoss",
+      "HTML",
+      "Node",
+      "Rails",
       "Spring",
-      "Struts"
+      "Struts",
+      "Tomcat"
     ]
   }],
   "publications": [{
