@@ -8,8 +8,8 @@
     "website": "",
     "summary": "Experienced Software Engineer with a demonstrated history of working in the e-learning industry. Strong engineering professional skilled in Mobile Applications, Scrum, Web Applications and Object-Oriented Programming (OOP).",
     "location": {
-      "countryCode": "US",
-      "address": "Spain"
+      "countryCode": "ES",
+      "address": "Badalona"
     },
     "profiles": [
       {
@@ -319,6 +319,21 @@
     },
     {
       "name": "Ruby on Rails",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AWS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LTI",
       "level": "",
       "keywords": []
     }
