@@ -2,334 +2,341 @@
   "basics": {
     "name": "Xavi Aracil",
     "label": "Software Engineer at Universitat Oberta de Catalunya",
+    "picture": "",
     "email": "xaviaracil@icloud.com",
     "phone": "",
-    "website": "http://desarrolloenmac.com",
-    "summary": "",
+    "website": "",
+    "summary": "Experienced Software Engineer with a demonstrated history of working in the e-learning industry. Strong engineering professional skilled in Mobile Applications, Scrum, Web Applications and Object-Oriented Programming (OOP).",
     "location": {
-      "address": "Mozart 17-21 4-B",
-      "postalCode": "08917",
-      "city": "Badalona",
-      "countryCode": "ES",
-      "region": "Barcelona"
+      "countryCode": "US",
+      "address": "Spain"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "xaviaracil",
-      "url": "http://twitter.com/xaviaracil"
-    }, {
-      "network": "GitHub",
-      "username": "xaviaracil",
-      "url": "http://github.com/xaviaracil"
-    }, {
-      "network": "LinkedIn",
-      "username": "xaviaracil",
-      "url": "http://linkedin.com/in/xaviaracil"
-    }]
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "xaviaracil",
+        "url": "https://www.linkedin.com/in/xaviaracil/"
+      },
+      {
+        "network": "Twitter",
+        "username": "xaviaracil",
+        "url": "https://twitter.com/xaviaracil"
+      }
+    ]
   },
-  "work": [{
-    "company": "Universitat Oberta de Catalunya",
-    "position": "Software Engineer",
-    "website": "",
-    "startDate": "2015-01-01",
-    "summary": "Software Engineer at the eLearn Center of the Universitat Oberta de Catalunya. Helping teachers and researchers to make e-learning research by providing:",
-    "highlights": [
-      "Technologic resources: Cloud resources with automatic provision and deployment",
-      "Developments: Integration of existing applications within LMS (UOC's Campus, Moodle, CMS like Wordpress, etc.) using LTI, developments using SCRUM methodology, etc.",
-      "Data: data of the research and ways to visualize and explore it. "
-    ]
-  }, {
-    "company": "LaiBeth eSolutions",
-    "position": "Founder",
-    "website": "",
-    "startDate": "2013-01-01",
-    "endDate": "2016-12-31",
-    "summary": "Aiming to push my Mac/iOS/Web skills on to the next level.",
-    "highlights": [
-      "Consulting & development of web and/or mobility solutions."
-    ]
-  }, {
-    "company": "Universitat Oberta de Catalunya",
-    "position": "Technical manager",
-    "website": "",
-    "startDate": "2011-01-01",
-    "summary": "Technical Leader of the Architecture & Interoperabilty unit inside the Office of Learning Technologies.",
-    "highlights": [
-      "Our aim is to evolve the core of the UOC's LMS, promoting interoperability with external tools and services."
-    ],
-    "endDate": "2012-12-01"
-  }, {
-    "company": "xadSolutions",
-    "position": "Mac/iOS Developer",
-    "website": "",
-    "startDate": "2008-01-01",
-    "summary": "Development of Mac/iOS software, either for clients of for the Mac App Store.",
-    "highlights": [
-      "Dashboard widgets with traffic webcams of Barcelona, Madrid & Bilbao",
-      "Mac application for calling with Skype to AddressBook contacts for free",
-      "Modules for an iPad application: \"Gestor visual de items procedentes de canales Facebook, Twitter, Instagram, 500px, Google Reader, Tumblr, RSS,...\"",
-      "Objective-C modules development in XCode"
-    ],
-    "endDate": "2012-12-01"
-  }, {
-    "company": "Universitat Oberta de Catalunya",
-    "position": "Product Manager of Community Lab",
-    "website": "",
-    "startDate": "2008-01-01",
-    "summary": "Product Manager of Community Lab at the Learning Technologies Office.",
-    "highlights": [
-      "Our aim is to provide community services to UOC's Virtual Campus, therefore transforming it to a Learning Network with a potential public of 50,000+ current students of the 200,000+ total students of the UOC since its foundation."
-    ],
-    "endDate": "2011-01-01"
-  }, {
-    "company": "Universitat Oberta de Catalunya",
-    "position": "Project Manager",
-    "website": "",
-    "startDate": "2006-01-01",
-    "summary": "Working as a project manager in \"Universitat Oberta de Catalunya\", but employed from \"Tecsidel, S.A.\"",
-    "highlights": [],
-    "endDate": "2008-01-01"
-  }, {
-    "company": "Tecsidel, S.A.",
-    "position": "Project Manager",
-    "website": "",
-    "startDate": "2006-09-01",
-    "summary": "Working for Tecsidel, S.A. in Universitat Oberta de Catalunya",
-    "highlights": [],
-    "endDate": "2008-01-01"
-  }, {
-    "company": "Tecsidel, S.A.",
-    "position": "Software Engineer",
-    "website": "",
-    "startDate": "2002-02-01",
-    "summary": "Worked as a Software Engineer in several projects in a small developtment group (1-4 people).",
-    "highlights": [
-      "Main technologies: Web Applications in Java, CORBA, Delphi, etc…"
-    ],
-    "endDate": "2006-08-01"
-  }, {
-    "company": "Tecsidel, S.A.",
-    "position": "Digital TV internship",
-    "website": "",
-    "startDate": "2001-01-01",
-    "summary": "Development and maintenance of applications written in OpenTV, mainly for satellite television.",
-    "highlights": [],
-    "endDate": "2002-01-01"
-  }],
-  "education": [{
-    "institution": "Universitat Politècnica de Catalunya",
-    "area": "Computer Science",
-    "studyType": "Bachelor",
-    "startDate": "1996-01-01",
-    "gpa": "",
-    "courses": [],
-    "endDate": "2003-01-01"
-  },{
-    "institution": "Scrum Manager",
-    "area": "Project Management",
-    "studyType": "Course",
-    "courses": [
-      "CU_SCRUM_GRAL",
-      "OK_CU_METRICAS"
-    ]
-  },{
-    "institution": "Coursera",
-    "area": "Computer Science",
-    "studyType": "Course",
-    "courses": [
-      "Software as a Service (part 1) - CS169.1X"
-    ]
-  }, {
-    "institution": "edX",
-    "area": "Computer Science",
-    "studyType": "Course",
-    "courses": [
-      "BerkeleyX/CS169.2x/2012_Fall - Software as a Service"
-    ]
-  }, {
-    "institution": "UOC",
-    "area": "Computer Science",
-    "studyType": "Course",
-    "courses": [
-      "UOCx/UOC002/015_T1 - Programación para todos con Scratch"
-    ]
-  }, {
-    "institution": "Code School",
-    "area": "Computer Science",
-    "studyType": "Course",
-    "courses": [
-      "Shaping Up With AngularJS"
-    ]
-  }, {
-    "institution": "MiriadaX",
-    "area": "Computer Science",
-    "studyType": "Course",
-    "courses": [
-      "Introducción al Business Intelligence"
-    ]
-  }, {
-    "institution": "Capside",
-    "area": "Computer Science",
-    "studyType": "Course",
-    "courses": [
-      "200-BIG-20-EN - Big Data on AWS"
-    ]
-  }],
-  "skills": [{
-    "name": "Backend Development",
-    "level": "",
-    "keywords": [
-      "Couchbase",
-      "MongoDB",
-      "MySQL",
-      "Oracle",
-      "PostgreSQL",
-      "SQL"
-    ]
-  }, {
-    "name": "Cloud Computing",
-    "level": "",
-    "keywords": [
-      "AWS (EC2, S3, RDS, ECS, EMR, RedShift)",
-      "Azure",
-      "Docker"
-    ]
-  }, {
-    "name": "Desktop Development",
-    "level": "",
-    "keywords": [
-      "Mac OS"
-    ]
-  }, {
-    "name": "Interoperability",
-    "level": "",
-    "keywords": [
-      "JSON",
-      "LTI",
-      "REST",
-      "Service Oriented Architecture"
-    ]
-  }, {
-    "name": "Programming Languages",
-    "level": "",
-    "keywords": [
-      "Java",
-      "Javascript",
-      "Objective-C",
-      "Python",
-      "Ruby",
-      "Swift"
-    ]
-  }, {
-    "name": "Mobile Development",
-    "level": "",
-    "keywords": [
-      "iOS",
-      "XCode"
-    ]
-  }, {
-    "name": "Software Development",
-    "level": "",
-    "keywords": [
-      "Continuous Integration",
-      "Git",
-      "Scrum",
-      "Subversion"
-    ]
-  }, {
-    "name": "Software Engineering",
-    "level": "",
-    "keywords": [
-      "API design",
-      "Functional programming",
-      "OOP"
-    ]
-  }, {
-    "name": "Web Development",
-    "level": "",
-    "keywords": [
-      "CSS",
-      "Django",
-      "Express",
-      "JBoss",
-      "HTML",
-      "Node",
-      "Rails",
-      "Spring",
-      "Struts",
-      "Tomcat"
-    ]
-  }],
-  "publications": [{
-    "name": "Next Generation Learning Architecture",
-    "publisher": "eLearn Center - UOC",
-    "releaseDate": "2016-08-04",
-    "website": "http://hdl.handle.net/10609/47481",
-    "summary": "Over the past decade and a half, the Learning Management System (LMS) has emerged as the enterprise solution for the delivery of education. An LMS is a single isolated system for supporting the rudimentary functions of online education. However, educational institutions are expanding beyond what a single system can deliver. There is a growing need for diverse educational functions such as advanced assessment, accreditation, personalization and learning pathways, and analytics. Newer software architectures need to offer a wider range of functions and support newer learning methodologies and educational business models. This report examines a software architecture to create and support these next generation learning environments."
-  }, {
-    "name": "UOC API Site, a seed for new eLearning applications",
-    "publisher": "SPDECE-2012",
-    "releaseDate": "2012-06",
-    "website": "http://www.easychair.org/conferences/submission_download.cgi?a=a09b8730c7d2;track=51158;submission=1012239",
-    "summary": "Nowadays the evolution of mobile devices and their cost reduction are favoring a new scenario for educational technologies. Students and teachers of Technical degrees, regardless the lack of investment in crisis time, have enough knowledge and skills to carry out innovative projects to take advantage of this fact. The UOC API Site project deals with this matter proposing a framework with the aim of giving support to the campus existing services for the BCS/MCS final projects and later, for the integration of new tools to the UOC Campus in favor of all its community members. Furthermore, this solution is scalable to other educational institutions using interoperability standards."
-  }, {
-    "name": "MyUOC, a Flexible Dashboard for Learning and Teaching",
-    "publisher": "ECTEL2010",
-    "releaseDate": "2010-04-17",
-    "website": "http://www.easychair.org/conferences/submission_download.cgi?a=a09b8730534f;track=21348;submission=385839",
-    "summary": "MyUOC is a flexible dashboard for learning that is characterized by 1) having a default page defined for each of the main user profiles, 2) being personalizable, 3) based on open standards and, therefore, open to and from the Internet cloud, and 4) a window to the main LMS resources and tools. MyUOC is part of the UOC's new virtual campus, a modular open source online campus to help faculty and students design their own learning experience."
-  }],
-  "languages": [{
-    "language": "English",
-    "fluency": "Fluent"
-  }, {
-    "language": "Spanish",
-    "fluency": "Native speaker"
-  }, {
-    "language": "Catalan",
-    "fluency": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Basketball"
-  }, {
-    "name": "Running"
-  }, {
-    "name": "Growing my daughters"
-  }, {
-    "name": "TV Shows"
-  }],
-  "references": [{
-    "name": "Evaristo de Frutos",
-    "reference": "Xavi is one of the best technicians I ever met. But, in addition, he is also a great coworker, making really easy to work with him. I'm sure he will reach all of their objectives in the future."
-  }, {
-    "name": "Alberto Robles",
-    "reference": "Xavi es un profesional responsable, altamente cualificado con capacidades gestión y organización y profunda solvencia técnica"
-  }, {
-    "name": "Carles Sanz Casañas",
-    "reference": "Xavi is an excelent hardworker. Expert in distributed applications and MACOSX systems as well."
-  }],
-  "projects": [{
-    "name": "SISNOTES",
-    "startDate": "undefined-2013-01",
-    "summary": "Under the current need for mobility and the increased use of tablets and smartphones, the user needs a notification system to have the ability to be notified when an event happens in their tools around campus, whether they are related with the community as learning tools.\n\nThe system would consist in developing a service or central server where the different tools around campus, which have developed to send or notify events, stay collected. Then he will need to establish the necessary communication with the Push server systems of different native mobile devices such as Apple iOS and Android GCM.\n\nThis would allow a centralized system where you can fill notifications according to needs and evolution of tools and / or applications, since it allows any event to notify implementing tool, provided that the mobile application is equipped to receive notifications.",
-    "url": ""
-  }, {
-    "name": "persona/",
-    "startDate": "2011-07-01",
-    "summary": "persona/ es un clon de Flipboard: una app para iPad que te permite consumir tus redes sociales RSS en formato revista.\n\nDisponible en la App Store: http://itunes.apple.com/es/app/id473629814?mt=8&affId=1720307",
-    "url": "http://itunes.apple.com/es/app/id473629814?mt=8&affId=1720307",
-    "endDate": "2012-04-01"
-  }, {
-    "name": "persona/ for iPad",
-    "startDate": "2011-06-01",
-    "summary": "Gestor visual de items procedentes de canales Facebook, Twitter, Instagram, 500px, Google Reader, Tumblr, RSS,...\n\nDesarrollo de módulos en Objective-C sobre el IDE Xcode 4",
-    "url": "https://itunes.apple.com/es/app/id473629814?mt=8&affId=1720307",
-    "endDate": "2011-09-01"
-  }, {
-    "name": "SkypeToAddressBook",
-    "startDate": "2011-02-01",
-    "summary": "SkypeToAddressBook allows you to link your AddressBook contacts with your Skype contacts. \n\nWith SkypeToAddressBook Address Book plugin (available on the website) you can skype your Skype contacts directly from AddressBook. That skype is doing to your contact’s Skype name, which is for free.",
-    "url": "http://www.xadsolutions.com/skypetoaddressbook/",
-    "endDate": "2011-04-01"
-  }]
+  "work": [
+    {
+      "company": "Universitat Oberta de Catalunya (UOC)",
+      "endDate": "",
+      "highlights": [],
+      "position": "Software Engineer",
+      "startDate": "2015-01-31",
+      "summary": "Software Engineer at the eLearn Center of the Universitat Oberta de Catalunya. Helping teachers and researchers to make e-learning research by providing:\n\n- Technologic resources: Cloud resources with automatic provision\n- Developments: Integration of existing applications within LMS using LTI, developments using SCRUM methodology, etc.\n- Data: data of the research and ways to visualize and explore it.",
+      "website": "https://www.linkedin.com/school/uoc/"
+    },
+    {
+      "company": "LaiBeth eSolutions",
+      "endDate": "2018-01-31",
+      "highlights": [],
+      "position": "Founder",
+      "startDate": "2013-01-31",
+      "summary": "Aiming to push my Mac/iOS/Web skills on to the next level.\n\nConsulting & development of web and/or mobility solutions.",
+      "website": "https://www.linkedin.com/company/laibeth-esolutions/"
+    },
+    {
+      "company": "Universitat Oberta de Catalunya",
+      "endDate": "2012-12-31",
+      "highlights": [],
+      "position": "Technical manager",
+      "startDate": "2011-01-31",
+      "summary": "Technical Leader of the Architecture & Interoperabilty unit inside the Office of Learning Technologies.\n\nOur aim is to evolve the core of the UOC's LMS, promoting interoperability with external tools and services.",
+      "website": "https://www.linkedin.com/school/uoc/"
+    },
+    {
+      "company": "Universitat Oberta de Catalunya",
+      "endDate": "2011-01-31",
+      "highlights": [],
+      "position": "Product Manager of Community Lab",
+      "startDate": "2008-12-31",
+      "summary": "Product Manager of Community Lab at the Learning Technologies Office.\nOur aim is to provide community services to UOC's Virtual Campus, therefore transforming it to a Learning Network with a potential public of 50,000+ current students of the 200,000+ total students of the UOC since its foundation.",
+      "website": "https://www.linkedin.com/school/uoc/"
+    },
+    {
+      "company": "Universitat Oberta de Catalunya",
+      "endDate": "2008-12-31",
+      "highlights": [],
+      "position": "Project Manager",
+      "startDate": "2006-12-31",
+      "summary": "Working as a project manager in \"Universitat Oberta de Catalunya\", but employed from \"Tecsidel, S.A.\"",
+      "website": "https://www.linkedin.com/school/uoc/"
+    },
+    {
+      "company": "xadSolutions",
+      "endDate": "2012-12-31",
+      "highlights": [],
+      "position": "Mac/iOS Developer",
+      "startDate": "2008-12-31",
+      "summary": "Development of Mac/iOS software, either for clients of for the Mac App Store.\n\nDashboard widgets with traffic webcams of Barcelona, Madrid & Bilbao\n\nMac application for calling with Skype to AddressBook contacts for free (http://itunes.apple.com/es/app/skypetoaddressbook/id418647232?mt=12).\n\nModules for an iPad application.",
+      "website": ""
+    },
+    {
+      "company": "Tecsidel, S.A.",
+      "endDate": "2008-12-31",
+      "highlights": [],
+      "position": "Project Manager",
+      "startDate": "2006-09-30",
+      "summary": "Working for Tecsidel, S.A. in Universitat Oberta de Catalunya",
+      "website": "https://www.linkedin.com/company/tecsidel/"
+    },
+    {
+      "company": "Tecsidel, S.A.",
+      "endDate": "2006-08-31",
+      "highlights": [],
+      "position": "Software Engineer",
+      "startDate": "2002-02-28",
+      "summary": "Worked as a Software Engineer in several projects in a small developtment group (1-4 people).\n\nMain technologies: Web Applications in Java, CORBA, Delphi, etc…",
+      "website": "https://www.linkedin.com/company/tecsidel/"
+    },
+    {
+      "company": "Tecsidel, S.A.",
+      "endDate": "2002-01-31",
+      "highlights": [],
+      "position": "Digital TV internship",
+      "startDate": "2001-01-31",
+      "summary": "Development and maintenance of applications written in OpenTV, mainly for satellite television.",
+      "website": "https://www.linkedin.com/company/tecsidel/"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universitat Oberta de Catalunya",
+      "area": "Ciencias de la computación",
+      "studyType": "Master of Mobile Application Development",
+      "startDate": "2020-12-31",
+      "endDate": "2022-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Universitat Politècnica de Catalunya",
+      "area": "Computer Science",
+      "studyType": "Computer Science",
+      "startDate": "1996-12-31",
+      "endDate": "2003-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Isaac Albeniz High School",
+      "area": "",
+      "studyType": "",
+      "startDate": "1992-12-31",
+      "endDate": "1996-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Next Generation Learning Architecture",
+      "publisher": null,
+      "releaseDate": "2016-04-08",
+      "website": "http://hdl.handle.net/10609/47481",
+      "summary": "\nOver the past decade and a half, the Learning Management System (LMS) has emerged as the enterprise solution for the delivery of education. An LMS is a single isolated system for supporting the rudimentary functions of online education. However, educational institutions are expanding beyond what a single system can deliver. There is a growing need for diverse educational functions such as advanced assessment, accreditation, personalization and learning pathways, and analytics. Newer software architectures need to offer a wider range of functions and support newer learning methodologies and educational business models. This report examines a software architecture to create and support these next generation learning environments."
+    },
+    {
+      "name": "UOC API Site, a seed for new eLearning applications",
+      "publisher": "SPDECE-2012",
+      "releaseDate": "2012-06-30",
+      "website": "http://www.easychair.org/conferences/submission_download.cgi?a=a09b8730c7d2;track=51158;submission=1012239",
+      "summary": "Nowadays the evolution of mobile devices and their cost reduction are favoring a new scenario for educational technologies. Students and teachers of Technical degrees, regardless the lack of investment in crisis time, have enough knowledge and skills to carry out innovative projects to take advantage of this fact. The UOC API Site project deals with this matter proposing a framework with the aim of giving support to the campus existing services for the BCS/MCS final projects and later, for the integration of new tools to the UOC Campus in favor of all its community members. Furthermore, this solution is scalable to other educational institutions using interoperability standards."
+    },
+    {
+      "name": "MyUOC, a Flexible Dashboard for Learning and Teaching",
+      "publisher": "ECTEL2010",
+      "releaseDate": "2010-04-17",
+      "website": "http://www.easychair.org/conferences/submission_download.cgi?a=a09b8730534f;track=21348;submission=385839",
+      "summary": "MyUOC is a flexible dashboard for learning that is characterized by 1) having a default page defined for each of the main user profiles, 2) being personalizable, 3) based on open standards and, therefore, open to and from the Internet cloud, and 4) a window to the main LMS resources and tools. MyUOC is part of the UOC's new virtual campus, a modular open source online campus to help faculty and students design their own learning experience."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mac OS X",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "iPhone",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Universitat Oberta de Catalunya",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Xcode",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Subversion",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cocoa",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Open Source",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Struts",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MVC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Couchbase",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "OOP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JSP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "E-Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Mobile Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Objective-C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spring",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JSON",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Eclipse",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "REST",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Evaristo de Frutos",
+      "reference": "Xavi is one of the best technicians I ever met. But, in addition, he is also a great coworker, making really easy to work with him. I'm sure he will reach all of their objectives in the future."
+    },
+    {
+      "name": "Alberto Robles",
+      "reference": "Xavi es un profesional responsable, altamente cualificado con capacidades gestión y organización y profunda solvencia técnica"
+    },
+    {
+      "name": "Carles Sanz Casañas",
+      "reference": "Xavi is an excelent hardworker. Expert in distributed applications and MACOSX systems as well."
+    }
+  ]
 }
