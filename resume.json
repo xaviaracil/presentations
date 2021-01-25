@@ -37,7 +37,7 @@
       "position": "Software Engineer",
       "startDate": "2015-01-31",
       "summary": "Software Engineer at the eLearn Center of the Universitat Oberta de Catalunya. Helping teachers and researchers to make e-learning research by providing:\n\n- Technologic resources: Cloud resources with automatic provision\n- Developments: Integration of existing applications within LMS using LTI, developments using SCRUM methodology, etc.\n- Data: data of the research and ways to visualize and explore it.",
-      "website": "https://www.linkedin.com/school/uoc/"
+      "website": "https://www.elearncenter.uoc.edu"
     },
     {
       "company": "LaiBeth eSolutions",
@@ -55,7 +55,7 @@
       "position": "Technical manager",
       "startDate": "2011-01-31",
       "summary": "Technical Leader of the Architecture & Interoperabilty unit inside the Office of Learning Technologies.\n\nOur aim is to evolve the core of the UOC's LMS, promoting interoperability with external tools and services.",
-      "website": "https://www.linkedin.com/school/uoc/"
+      "website": "https://www.uoc.edu"
     },
     {
       "company": "Universitat Oberta de Catalunya",
@@ -64,7 +64,7 @@
       "position": "Product Manager of Community Lab",
       "startDate": "2008-12-31",
       "summary": "Product Manager of Community Lab at the Learning Technologies Office.\nOur aim is to provide community services to UOC's Virtual Campus, therefore transforming it to a Learning Network with a potential public of 50,000+ current students of the 200,000+ total students of the UOC since its foundation.",
-      "website": "https://www.linkedin.com/school/uoc/"
+      "website": "https://www.uoc.edu"
     },
     {
       "company": "Universitat Oberta de Catalunya",
@@ -73,7 +73,7 @@
       "position": "Project Manager",
       "startDate": "2006-12-31",
       "summary": "Working as a project manager in \"Universitat Oberta de Catalunya\", but employed from \"Tecsidel, S.A.\"",
-      "website": "https://www.linkedin.com/school/uoc/"
+      "website": "https://www.uoc.edu"
     },
     {
       "company": "xadSolutions",
@@ -121,7 +121,10 @@
       "startDate": "2020-12-31",
       "endDate": "2022-12-31",
       "gpa": "",
-      "courses": []
+      "courses": [
+        "M1.308 - Tecnologia i desenvolupament en dispositius mòbils",
+        "M0.653 - Desenvolupament d'aplicacions per a dispositius iOS"
+      ]
     },
     {
       "institution": "Universitat Politècnica de Catalunya",
