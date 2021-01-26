@@ -214,6 +214,13 @@
       "summary": "\nOver the past decade and a half, the Learning Management System (LMS) has emerged as the enterprise solution for the delivery of education. An LMS is a single isolated system for supporting the rudimentary functions of online education. However, educational institutions are expanding beyond what a single system can deliver. There is a growing need for diverse educational functions such as advanced assessment, accreditation, personalization and learning pathways, and analytics. Newer software architectures need to offer a wider range of functions and support newer learning methodologies and educational business models. This report examines a software architecture to create and support these next generation learning environments."
     },
     {
+      "name": "Towards the Use of Personal Robots to Improve the Online Learning Experience",
+      "publisher": "3PGCIC 2020",
+      "releaseDate": "2020-10-09",
+      "website": "https://link.springer.com/chapter/10.1007/978-3-030-61105-7_18",
+      "summary": "Nowadays the evolution of mobile devices and their cost reduction are favoring a new scenario for educational technologies. Students and teachers of Technical degrees, regardless the lack of investment in crisis time, have enough knowledge and skills to carry out innovative projects to take advantage of this fact. The UOC API Site project deals with this matter proposing a framework with the aim of giving support to the campus existing services for the BCS/MCS final projects and later, for the integration of new tools to the UOC Campus in favor of all its community members. Furthermore, this solution is scalable to other educational institutions using interoperability standards."
+    },
+    {
       "name": "UOC API Site, a seed for new eLearning applications",
       "publisher": "SPDECE-2012",
       "releaseDate": "2012-06-30",
