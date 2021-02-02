@@ -238,7 +238,7 @@
   "skills": [
     {
       "name": "Software Engineering",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "Methodologies",
         "Design Patterns",
@@ -247,7 +247,7 @@
     },
     {
       "name": "EdTech",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "LMS",
         "IMS Global"
@@ -255,29 +255,30 @@
     },
     {
       "name": "Software Development",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "Web Application Development",
         "Mobile Application Development",
         "Desktop Application Development",
         "Database",
         "SCM",
-        "Devops"
+        "DevOps"
       ]
     },
     {
       "name": "Web Application Development",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "Java",
         "Ruby",
+        "Python",
         "Javascript",
         "HTML"
       ]
     },
     {
       "name": "Mobile Application Development",
-      "level": "",
+      "level": "Intermediate",
       "keywords": [
         "iOS",
         "Android",
@@ -286,31 +287,29 @@
     },
     {
       "name": "Desktop Application Development",
-      "level": "",
+      "level": "Intermediate",
       "keywords": [
         "macOS"
       ]
     },    
     {
-      "name": "Devops",
-      "level": "",
+      "name": "DevOps",
+      "level": "Advanced",
       "keywords": [
         "Gitlab CI",
-        "Docker",
-        "Javascript",
-        "HTML"
+        "Docker"
       ]
     },    
     {
       "name": "Javascript",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "JS Frameworks"
       ]
     },
     {
       "name": "Java",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "SpringBoot",
         "Thymeleaf"
@@ -318,14 +317,14 @@
     },
     {
       "name": "Ruby",
-      "level": "",
+      "level": "Intermediate",
       "keywords": [
         "Ruby on Rails"
       ]
     },    
     {
       "name": "JS Frameworks",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "VueJS",
         "React",
@@ -334,7 +333,7 @@
     },    
     {
       "name": "iOS",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "Objective C",
         "Swift",
@@ -343,7 +342,7 @@
     },
     {
       "name": "Android",
-      "level": "",
+      "level": "Beginner",
       "keywords": [
         "Java for Android",
         "Kotlin"
@@ -351,14 +350,14 @@
     },
     {
       "name": "Hybrid Applications",
-      "level": "",
+      "level": "Beginner",
       "keywords": [
         "Ionic"
       ]
     },
     {
       "name": "macOS",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "Objective C",
         "Swift"
@@ -366,7 +365,7 @@
     },
     {
       "name": "Database",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "SQL",
         "Oracle",
@@ -378,7 +377,7 @@
     },
     {
       "name": "SCM",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "Git",
         "Subversion"
@@ -386,7 +385,7 @@
     },
     {
       "name": "Methodologies",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "Waterfall",
         "Scrum"
@@ -394,7 +393,7 @@
     },
     {
       "name": "Design Patterns",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "MVC",
         "MVVM"
@@ -402,7 +401,7 @@
     },
     {
       "name": "IMS Global",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "LTI",
         "Calliper"
@@ -410,7 +409,7 @@
     },
     {
       "name": "LMS",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "Moodle",
         "Self Made"
@@ -418,14 +417,14 @@
     },
     {
       "name": "Cloud Computing",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "AWS", 
         "Azure"]
     },
     {
       "name": "AWS",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "EC2",
         "S3",
