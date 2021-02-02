@@ -5,7 +5,7 @@
     "picture": "",
     "email": "xaviaracil@icloud.com",
     "phone": "",
-    "website": "",
+    "website": "https://xaviaracil.github.io",
     "summary": "Experienced Software Engineer with a demonstrated history of working in the e-learning industry. Strong engineering professional skilled in Mobile Applications, Scrum, Web Applications and Object-Oriented Programming (OOP).",
     "location": {
       "countryCode": "ES",
@@ -237,174 +237,204 @@
   ],
   "skills": [
     {
-      "name": "Java",
+      "name": "Software Engineering",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "Methodologies",
+        "Design Patterns",
+        "Software Development"
+      ]
     },
     {
-      "name": "Mac OS X",
+      "name": "EdTech",
       "level": "",
-      "keywords": []
-    },
-    {
-      "name": "iPhone",
-      "level": "",
-      "keywords": []
+      "keywords": [
+        "LMS",
+        "IMS Global"
+      ]
     },
     {
       "name": "Software Development",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "Web Application Development",
+        "Mobile Application Development",
+        "Desktop Application Development",
+        "Database",
+        "SCM",
+        "Devops"
+      ]
     },
     {
-      "name": "Universitat Oberta de Catalunya",
+      "name": "Web Application Development",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "Java",
+        "Ruby",
+        "Javascript",
+        "HTML"
+      ]
     },
     {
-      "name": "Software Engineering",
+      "name": "Mobile Application Development",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "iOS",
+        "Android",
+        "Hybrid Applications"
+      ]
     },
     {
-      "name": "Scrum",
+      "name": "Desktop Application Development",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "macOS"
+      ]
+    },    
+    {
+      "name": "Devops",
+      "level": "",
+      "keywords": [
+        "Gitlab CI",
+        "Docker",
+        "Javascript",
+        "HTML"
+      ]
+    },    
+    {
+      "name": "Javascript",
+      "level": "",
+      "keywords": [
+        "JS Frameworks"
+      ]
     },
     {
-      "name": "Xcode",
+      "name": "Java",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "SpringBoot",
+        "Thymeleaf"
+      ]
     },
     {
-      "name": "Subversion",
+      "name": "Ruby",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "Ruby on Rails"
+      ]
+    },    
+    {
+      "name": "JS Frameworks",
+      "level": "",
+      "keywords": [
+        "VueJS",
+        "React",
+        "jQuery"
+      ]
+    },    
+    {
+      "name": "iOS",
+      "level": "",
+      "keywords": [
+        "Objective C",
+        "Swift",
+        "Swift UI"
+      ]
     },
     {
-      "name": "Cocoa",
+      "name": "Android",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "Java for Android",
+        "Kotlin"
+      ]
     },
     {
-      "name": "MySQL",
+      "name": "Hybrid Applications",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "Ionic"
+      ]
     },
     {
-      "name": "Open Source",
+      "name": "macOS",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "Objective C",
+        "Swift"
+      ]
     },
     {
-      "name": "Software Project Management",
+      "name": "Database",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "SQL",
+        "Oracle",
+        "MySQL/Aurora",
+        "PostgreSQL",
+        "Couchbase",
+        "MongoDB"
+      ]
     },
     {
-      "name": "Struts",
+      "name": "SCM",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "Git",
+        "Subversion"
+      ]
     },
     {
-      "name": "Git",
+      "name": "Methodologies",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "Waterfall",
+        "Scrum"
+      ]
     },
     {
-      "name": "MVC",
+      "name": "Design Patterns",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "MVC",
+        "MVVM"
+      ]
     },
     {
-      "name": "Couchbase",
+      "name": "IMS Global",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "LTI",
+        "Calliper"
+      ]
     },
     {
-      "name": "OOP",
+      "name": "LMS",
       "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JSP",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "E-Learning",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Web Applications",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Mobile Applications",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Web Development",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Objective-C",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Spring",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JSON",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "PostgreSQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Eclipse",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "REST",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Ruby on Rails",
-      "level": "",
-      "keywords": []
+      "keywords": [
+        "Moodle",
+        "Self Made"
+      ]
     },
     {
       "name": "Cloud Computing",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "AWS", 
+        "Azure"]
     },
     {
       "name": "AWS",
       "level": "",
-      "keywords": []
-    },
-    {
-      "name": "LTI",
-      "level": "",
-      "keywords": []
+      "keywords": [
+        "EC2",
+        "S3",
+        "Lambda",
+        "RDS",
+        "API Gateway",
+        "Cloud Formation",
+        "CloudWatch"
+      ]
     }
   ],
   "languages": [
@@ -418,7 +448,7 @@
     },
     {
       "language": "en",
-      "fluency": "Native Speaker"
+      "fluency": "Fluent Speaker"
     }
   ],
   "interests": [],
