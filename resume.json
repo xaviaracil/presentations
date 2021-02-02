@@ -1,5 +1,7 @@
 {
-  "meta": { "theme": "spartan" },
+  "meta": { 
+    "theme": "spartan" 
+  },
   "basics": {
     "name": "Xavi Aracil",
     "label": "Software Engineer at Universitat Oberta de Catalunya",
@@ -432,7 +434,8 @@
         "RDS",
         "API Gateway",
         "Cloud Formation",
-        "CloudWatch"
+        "CloudWatch",
+        "Fargate"
       ]
     }
   ],
